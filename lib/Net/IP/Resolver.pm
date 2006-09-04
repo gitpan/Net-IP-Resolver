@@ -40,7 +40,7 @@ use Net::IP::Match::XS ();
 
 use vars qw{$VERSION};
 BEGIN {
-	$VERSION = '0.01';
+	$VERSION = '0.02';
 }
 
 
@@ -150,15 +150,16 @@ For other issues, or commercial enhancement and support, contact the author
 
 =head1 AUTHORS
 
-Adam Kennedy (Maintainer), L<http://ali.as/>, cpan@ali.as
+Adam Kennedy E<lt>adamk@cpan.orgE<gt>
 
 =head1 SEE ALSO
 
-L<Net::IP>, L<Net::IP::Match::XS>
+L<Net::IP>, L<Net::IP::Match::XS>, L<http://ali.as/>
 
 =head1 COPYRIGHT
 
-Copyright (c) 2005 Adam Kennedy. All rights reserved.
+Copyright 2005 - 2006 Adam Kennedy.
+
 This program is free software; you can redistribute
 it and/or modify it under the same terms as Perl itself.
 
